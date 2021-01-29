@@ -27,3 +27,5 @@ fields:
   type: boolean
   label: comments
   default: false
+pages:
+- _posts/post-one.md
