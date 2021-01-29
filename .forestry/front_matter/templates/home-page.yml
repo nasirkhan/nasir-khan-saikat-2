@@ -25,3 +25,5 @@ fields:
   config:
     required: false
   label: permalink
+pages:
+- a-new-page.md
