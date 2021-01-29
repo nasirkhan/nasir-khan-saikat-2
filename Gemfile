@@ -23,5 +23,3 @@ end
 
 # jekyll-admin
 gem 'jekyll-admin', group: :jekyll_plugins
-
-gem "github-pages", group: :jekyll_plugins
