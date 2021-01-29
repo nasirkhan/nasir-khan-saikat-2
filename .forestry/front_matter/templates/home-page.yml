@@ -8,3 +8,6 @@ fields:
 - type: text
   name: layout
   label: layout
+- name: comments
+  type: boolean
+  label: comments
