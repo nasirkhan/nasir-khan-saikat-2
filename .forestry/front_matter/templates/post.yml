@@ -23,3 +23,7 @@ fields:
 - type: number
   name: rating
   label: rating
+- name: comments
+  type: boolean
+  label: comments
+  default: false
