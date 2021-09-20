@@ -2,7 +2,7 @@
 name: "Nasir Khan Saikat"
 title: "Nasir Khan Saikat"
 description: "Nasir Khan Saikat - Full Stack Developer, Photographer & Author"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/nasir-khan-saikat-logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 'https://nasirkhan.github.io/nasir-khan-saikat-2'
 google_analytics: 'UA-xxxxxxxx-1'
@@ -14,7 +14,7 @@ email: nasir8891@gmail.com
 
 # Authors
 authors:
-  sal:
+  nasirkhan:
     name: nasirkhan
     display_name: 'Nasir Khan Saikat'
     gravatar: 96bf4c3a8875db84432298eba29efbc8
