@@ -1,8 +1,9 @@
 ---
-layout: ''
+layout: post
 title: Software Freedom Day - SFD
 author: ''
-categories: []
+categories:
+- blog
 tags:
 - festival
 - software freedom day
