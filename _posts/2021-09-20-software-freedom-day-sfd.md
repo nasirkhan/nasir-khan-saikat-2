@@ -3,7 +3,10 @@ layout: ''
 title: Software Freedom Day - SFD
 author: ''
 categories: []
-tags: []
+tags:
+- festival
+- software freedom day
+- open source
 image: "/assets/images/software-freedom-day-banner-2021.jpg"
 rating: 
 comments: true
