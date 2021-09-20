@@ -10,7 +10,7 @@ tags:
 - open source
 image: "/assets/images/software-freedom-day-banner-2021.jpg"
 rating: 
-comments: true
+comments: false
 
 ---
 This year, we celebrated the Software Freedom Day (SFD) in September 18th. Software Freedom is celebrated in the 3rd Saturday, in the month of September each year.
