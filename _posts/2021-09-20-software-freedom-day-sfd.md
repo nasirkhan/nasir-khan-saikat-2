@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Software Freedom Day - SFD
-author: ''
+author: sal
 categories:
 - blog
 tags:
