@@ -28,5 +28,5 @@ fields:
   label: comments
   default: false
 pages:
+- _posts/2021-09-20-software-freedom-day-sfd.md
 - _posts/post-one.md
-- _posts/software-freedom-day-sfd.md
